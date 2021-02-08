@@ -25,14 +25,14 @@
 - visual-studio-code
 
 <p> To install app using home brew
-<blockquote>brew install *packagename* </blockquote>
+<blockquote><code>brew install *packagename* </code></blockquote>
 </p>
 
 ### To Update and manage HomeBrew
 <p>
-<blockquote>brew update</blockquote>
-<blockquote>brew upgrade</blockquote>
-<blockquote>brew cleanup</blockquote>
-<code>brew doctor</code>
+<blockquote>To Update: <code>brew update</code></blockquote>
+<blockquote>To Upgrade: <code>brew upgrade</code></blockquote>
+<blockquote>To Clean up: <code>brew cleanup</code></blockquote>
+<blockquote>Check up: <code>brew doctor</code></blockquote>
 </p>
 
