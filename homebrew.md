@@ -1,6 +1,6 @@
 # Home brew Installation
 ----------------------------------------------------------
-- <blockquote>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</blockquote>
+- <blockquote><code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code></blockquote>
     - for more info [click here](https://brew.sh)
 
 -------------------------------------------------
@@ -26,6 +26,9 @@
 
 <p> To install app using home brew
 <blockquote><code>brew install *packagename* </code></blockquote>
+</p>
+<p> To Uninstall app using home brew
+<blockquote><code>brew uninstall *packagename* </code></blockquote>
 </p>
 
 ### To Update and manage HomeBrew
