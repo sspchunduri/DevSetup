@@ -1,7 +1,10 @@
 # Home brew Installation
-==============================
+====
 
 - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    - for more info [click here](https://brew.sh)
+
+-------------------------------------------------
 
 ## **home brew apps to install**
 --------------------------------
@@ -24,7 +27,7 @@
 - visual-studio-code
 
 <p> To install app using home brew
-> brew install *packagename*
-
+<blockquote>brew install *packagename* </blockquote>
+</p>
 
 
