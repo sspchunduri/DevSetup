@@ -13,7 +13,7 @@
 - dsznajder.es7-react-js-snippets  *(React Snippets)*
 - jpoissonnier.vscode-styled-components  *(React Snippets)*
 ----
-**Java Script Snippets*
+**Java Script Snippets**
 - xabikos.JavaScriptSnippets
 - dbaeumer.vscode-eslint *(EsLinter)*
 - esbenp.prettier-vscode *(Prettier)*
