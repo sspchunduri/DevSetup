@@ -1,4 +1,4 @@
-##Extensions I use for vscode
+#Extensions I use for vscode
 
 batisteo.vscode-django (Django)
 CoenraadS.bracket-pair-colorizer-2 (Bracket Pair Colorizer 2)
