@@ -1,11 +1,9 @@
 # Home brew Installation
-====
-
-- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+----------------------------------------------------------
+- <blockquote>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</blockquote>
     - for more info [click here](https://brew.sh)
 
 -------------------------------------------------
-
 ## **home brew apps to install**
 --------------------------------
 
@@ -30,4 +28,11 @@
 <blockquote>brew install *packagename* </blockquote>
 </p>
 
+### To Update and manage HomeBrew
+<p>
+<blockquote>brew update</blockquote>
+<blockquote>brew upgrade</blockquote>
+<blockquote>brew cleanup</blockquote>
+<code>brew doctor</code>
+</p>
 
